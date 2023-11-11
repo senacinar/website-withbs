@@ -1,0 +1,48 @@
+.imgSlider{
+    height: 600px;
+}
+
+.body{
+    padding-top: 60px;
+    font-family: 'Kanit', sans-serif;
+    
+    
+}
+.features{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 350px;
+    margin: 45px auto;
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size:30px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size:30px;
+    border: 10px solid white;
+    background-color: white;
+
+}
+.teamCard>img:hover{
+    opacity: 0.8;
+}
+.teamCard>img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+
+}
